@@ -2,6 +2,14 @@ package com;
 /**
  * Created by enbodu on 7/2/17.
  */
+      /*  564. Find the Closest Palindrome
+        Given an integer n, find the closest integer (not including itself), which is a palindrome.
+        The 'closest' is defined as absolute difference minimized between two integers.
+
+        Note:
+        The input n is a positive integer represented by string, whose length will not exceed 18.
+        If there is a tie, return the smaller one as answer.*/
+
 public class testclass {
     public static void main(String[] args) {
     //test
